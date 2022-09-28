@@ -1,0 +1,16 @@
+{
+    "name": "jayanthi_naik/date",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "JayanthiNaik\\Date\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "jayanthi"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
